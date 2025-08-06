@@ -28,8 +28,6 @@ De nombreux IDE existent.
 
 - De plus, `Git` facilite le travail collaboratif, puisque plusieurs personnes peuvent travailler sur un même projet en ayant chacun une copie locale du projet sur leur ordinateur.
 
-Dans le tutoriel du TP0, nous avons préparé quelques exercices qui vous permettront de mettre en pratique quelques fonctions de base de `Git`, qui vous seront utiles pour les TP et les projets cette session. 
-
 Cliquez [ici](https://git-scm.com/) pour installer Git.
 
 ## ÉTAPE 2 du TP0 : Création d'un compte GitHub 
