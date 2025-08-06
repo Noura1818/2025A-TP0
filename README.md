@@ -4,7 +4,8 @@ Pour cette première semaine de laboratoire, vous aurez comme tâche de complét
 
 Pour ce premier TP (que nous avons intitulé le TP0), il n'y aura pas de travail à remettre et vous ne serez pas évalués - l'objectif du TP0 est de s'assurer que vous ayez fait toutes les installations et configurations nécessaires sur votre ordinateur pour bien commencer la session. 
 
-Avant de commencer les instructions ci-dessous, assurez-vous d'avoir pris connaissance des *informations importantes* contenues dans le document intitulé `introduction.md`. 
+> [!IMPORTANT]
+> Avant de commencer le TP0, assurez-vous d'avoir pris connaissance des informations contenues dans le document intitulé `introduction.md`. 
 
 ## ÉTAPE 1 du TP0 : Téléchargements
 
