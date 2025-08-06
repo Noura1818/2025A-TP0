@@ -6,21 +6,21 @@ Pour ce premier TP (que nous avons intitulé le TP0), il n'y aura pas de travail
 
 Avant de commencer les instructions ci-dessous, assurez-vous d'avoir pris connaissance des *informations importantes* contenues dans le document intitulé `introduction.md`. 
 
-# PARTIE 1 : Téléchargements
+## ÉTAPE 1 du TP0 : Téléchargements
 
 Comme première partie du TP0, vous devez faire les installations suivantes sur votre ordinateur. Ces outils seront nécessaires pour la réalisation des TP et des projets tout au long de la session.
 
-## Installation de Python
+### Installation de Python
 
 Python est le langage de programmation que nous utiliserons tout au long de la session. Vous pouvez l'installer à partir du [site web officiel de Python](https://www.python.org/downloads/). 
 
-## Installation de VS Code
+### Installation de VS Code
 
 VS Code est un environnement de développement intégré (IDE). Plus spécifiquement, c'est un logiciel qui vous permet d'écrire, organiser et exécuter votre code. 
 
 De nombreux IDE existent. 
 
-## Installation de Git
+### Installation de Git
 
 `Git` est un outil qui permet d'effectuer la gestion de différentes versions de fichiers. Cet outil est très pratique, car il nous permet de sauvegarder différentes versions d'un projet de programmation à chaque fois que nous y apportons des changements. 
 
@@ -32,7 +32,7 @@ Dans le tutoriel du TP0, nous avons préparé quelques exercices qui vous permet
 
 Cliquez [ici](https://git-scm.com/) pour installer Git.
 
-## PARTIE 2 : Création d'un compte GitHub 
+## ÉTAPE 2 du TP0 : Création d'un compte GitHub 
 
 Vous êtes présentement sur une page dans le site web de `GitHub`, un outil qui permet d'entreposer des répertoires `Git`. Avec `GitHub`, il est possible de créer des *répertoires* (ou 'repositories', en anglais), qui nous permettent de sauvegarder un ensemble de fichiers (par exemple, dans le cadre de ce TP0). Cela nous permet de facilement partager des projets avec d'autres gens, ou encore de collaborer sur un même projet. 
 
@@ -42,7 +42,7 @@ Pour chaque TP/projet du cours, nous allons vous partager un répertoire GitHub 
 
 Vous pouvez cliquer [ici](https://github.com) pour créer votre compte GitHub. 
 
-## PARTIE 3 : Exercices du TP0
+## ÉTAPE 3 du TP0 : Exercices de familiarisation avec les outils Git, GitHub et VS Code
 
 Maintenant que vous avez tous les outils nécessaires sur votre ordinateur, vous pouvez maintenant commencer les exercices du TP0 ! :tada:
 
