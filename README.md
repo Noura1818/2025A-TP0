@@ -1,10 +1,10 @@
-# Bienvenue aux laboratoires du cours INF1007 ! 🖥️:
+# Bienvenue aux laboratoires du cours INF1007 ! 🖥️
 
 Pour cette première semaine de laboratoire, vous aurez comme tâche de compléter votre premier travail pratique (TP) en suivant les instructions ci-dessous. 
 
 Pour ce premier TP (que nous avons intitulé le TP0), il n'y aura pas de travail à remettre et vous ne serez pas évalués - l'objectif du TP0 est de s'assurer que vous ayez fait toutes les installations et configurations nécessaires sur votre ordinateur pour bien commencer la session. 
 
-Avant de commencer les instructions ci-dessous, assurez-vous d'avoir pris connaissance des *informations importantes* contenues dans le document intitulé `INF1007_A2025`. 
+Avant de commencer les instructions ci-dessous, assurez-vous d'avoir pris connaissance des *informations importantes* contenues dans le document intitulé `introduction.md`. 
 
 # PARTIE 1 : Téléchargements
 
@@ -46,7 +46,7 @@ Vous pouvez cliquer [ici](https://github.com) pour créer votre compte GitHub.
 
 Maintenant que vous avez tous les outils nécessaires sur votre ordinateur, vous pouvez maintenant commencer les exercices du TP0 ! :tada:
 
-Rendez-vous au fichier intitulé `TP0_exercices` pour les instructions. 
+Rendez-vous au fichier intitulé `exercices.md` pour les instructions. 
 
 ## Ressources additionelles (optionnel)
 
