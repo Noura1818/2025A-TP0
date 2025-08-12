@@ -1,49 +1,49 @@
 # Bienvenue aux travaux pratiques du cours INF1007 ! 🖥️
 
-Pour cette première semaine de laboratoire, vous aurez comme tâche de compléter votre premier travail pratique (TP) en suivant les instructions ci-dessous. 
+**Pour cette première semaine de laboratoire, vous aurez comme tâche de compléter votre premier travail pratique (TP) en suivant les instructions ci-dessous.**
 
-Pour ce premier TP (que nous avons intitulé le TP0), il n'y aura pas de travail à remettre et vous ne serez pas évalués - l'objectif du TP0 est de s'assurer que vous ayez fait toutes les installations et configurations nécessaires sur votre ordinateur pour bien commencer la session. 
+Ce premier TP, que nous avons intitulé le TP0, ne requiert aucun travail à remettre et ne sera pas noté. L'objectif du TP0 est simplement de s'assurer que toutes les installations et configurations nécessaires sur votre ordinateur sont effectuées afin de bien démarrer la session. 
 
 > [!IMPORTANT]
 > Avant de commencer le TP0, assurez-vous d'avoir pris connaissance des informations contenues dans le document intitulé `introduction.md`. 
 
 ## ÉTAPE 1 du TP0 : Téléchargements
 
-Comme première partie du TP0, vous devez faire les installations suivantes sur votre ordinateur. Ces outils seront nécessaires pour la réalisation des TP et des projets tout au long de la session.
+Comme première partie du TP0, vous devez installer les outils suivants sur votre ordinateur. Ces outils seront nécessaires pour réaliser les TP et les projets.
 
-### Installation de Python
+### ☑️ Installation de Python
 
 Python est le langage de programmation que nous utiliserons tout au long de la session. Vous pouvez l'installer à partir du [site web officiel de Python](https://www.python.org/downloads/). 
 
-### Installation de VS Code
+### ☑️ Installation de VS Code
 
-VS Code est un environnement de développement intégré (IDE). Plus spécifiquement, c'est un logiciel qui vous permet d'écrire, organiser et exécuter votre code. 
+Visual Studio Code est un environnement de développement intégré (IDE), c'est-à-dire un logiciel qui vous permettra d'écrire, organiser et exécuter votre code. Il en existe plusieurs autres, mais nous recommandons d'utiliser celui-ci pour le cours. Vous pouvez [installer VS Code ici](https://code.visualstudio.com/). 
 
-De nombreux IDE existent. 
+### ☑️ Installation de Git
 
-### Installation de Git
-
-`Git` est un outil qui permet d'effectuer la gestion de différentes versions de fichiers. Cet outil est très pratique, car il nous permet de sauvegarder différentes versions d'un projet de programmation à chaque fois que nous y apportons des changements. 
+`Git` est un logiciel de gestion de versions très pratique qui vous permet de sauvegarder différentes versions d'un projet à mesure que vous le modifiez. 
 
 - `Git` nous permet, par exemple, de récupérer une version antérieure d'un code. Cela enlève le risque de perdre votre travail, étant donné qu'il est possible de récupérer n'importe quelle version de votre travail que vous aurez répertorié avec `Git`. 
 
-- De plus, `Git` facilite le travail collaboratif, puisque plusieurs personnes peuvent travailler sur un même projet en ayant chacun une copie locale du projet sur leur ordinateur.
+- De plus, `Git` facilite la collaboration en permettant à plusieurs personnes de travailler en même temps sur le même projet, chacun ayant une copie locale sur son ordinateur. 
 
-Cliquez [ici](https://git-scm.com/) pour installer Git.
+Cliquez [ici pour installer Git](https://git-scm.com/).
 
 ## ÉTAPE 2 du TP0 : Création d'un compte GitHub 
 
-Vous êtes présentement sur une page dans le site web de `GitHub`, un outil qui permet d'entreposer des répertoires `Git`. Avec `GitHub`, il est possible de créer des *répertoires* (ou 'repositories', en anglais), qui nous permettent de sauvegarder un ensemble de fichiers (par exemple, dans le cadre de ce TP0). Cela nous permet de facilement partager des projets avec d'autres gens, ou encore de collaborer sur un même projet. 
+Vous êtes présentement sur une page dans le site web de `GitHub`, un outil qui permet d'entreposer des répertoires `Git`. Avec `GitHub`, il est possible de créer des *répertoires* (ou *repositories*, en anglais), qui nous permettent de sauvegarder un ensemble de fichiers (comme ceux de ce TP0) pour faciliter le partage et la collaboration. 
 
-En utilisant des commandes `Git`, il est possible de sauvegarder une version locale des répertoires GitHub sur notre ordinateur. Ensuite, on peut y apporter des changements sur notre copie locale, puis ensuite (encore avec des commandes `Git`), mettre à jour la version disponible en ligne sur GitHub avec nos changements. 
+En utilisant des commandes `Git`, il est possible de sauvegarder une version locale d'un répertoire GitHub sur votre ordinateur, y apporter des changements, puis mettre à jour la version disponible en ligne sur GitHub avec vos modifications. 
 
-Pour chaque TP/projet du cours, nous allons vous partager un répertoire GitHub contenant les instructions et les fichiers nécessaires pour réaliser votre travail. Pour chaque TP/projet, vous allez devoir faire une copie locale du répertoire sur votre ordinateur. Dans ce TP0, nous allons voir les commandes `Git` qui nous permettront de faire cette copie (que l'on appelle un `clone`), et ensuite publier vos changements sur GitHub. 
+Pour chaque TP et projet du cours, un répertoire GitHub vous sera partagé avec les fichiers et les instructions nécessaires. Vous devrez alors faire une copie locale du répertoire sur votre ordinateur, pour ensuite l'ouvrir dans VS Code pour réaliser votre travail. 
+
+Dans ce TP0, nous allons voir les commandes `Git` qui nous permettront de faire cette copie locale (que l'on appelle un `clone`), et ensuite publier vos changements sur GitHub. 
 
 Vous pouvez cliquer [ici](https://github.com) pour créer votre compte GitHub. 
 
 ## ÉTAPE 3 du TP0 : Exercices de familiarisation avec les outils Git, GitHub et VS Code
 
-Maintenant que vous avez tous les outils nécessaires sur votre ordinateur, vous pouvez maintenant commencer les exercices du TP0 ! :tada:
+Maintenant que vous avez installé tous les outils nécessaires sur votre ordinateur, vous pouvez commencer l'exercice du TP0 ! :tada:
 
 Rendez-vous au fichier intitulé `exercices.md` pour les instructions. 
 
@@ -52,9 +52,9 @@ Rendez-vous au fichier intitulé `exercices.md` pour les instructions.
 Voici quelques ressources additionnelles pour en apprendre davantage sur les outils présentés :
 
 1. [Cours d'introduction sur Git et GitHub](https://emdupre.github.io/git-course/)
-2. [Un autre tutoriel Git](https://www.w3schools.com/git/)
-3. [Lien vers un site montrant/réglant les fautes les plus communes sur Git](https://dangitgit.com/)
-4. [Stack Overflow pour répondre à vos problèmes syntaxiques et/ou algorithmiques](https://stackoverflow.com/)
+2. [Tutoriel Git sur W3Schools](https://www.w3schools.com/git/)
+3. [Guide des erreurs courantes avec Git](https://dangitgit.com/)
+4. [Stack Overflow - aide pour vos questions syntaxiques et/ou algorithmiques](https://stackoverflow.com/)
 
 
 
