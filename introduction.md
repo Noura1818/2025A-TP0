@@ -11,11 +11,11 @@ Les TPs seront réalisés **en équipe de deux**. Le tableau suivant présente l
 
 | Travaux pratiques  | Matière                                  |   Date de remise       |   Pondération    |
 | ------------------ | ---------------------------------------- |----------------------- | -----------------|
-| TP0                | Introduction à Git, GitHub et VS Code    |   Aucune remise        |       5%
-| TP1                |                                          |                              
-| TP2                |                                          |   
-| TP3                |                                          |   
-| TP4                |                                          |   
+| TP0                | Introduction à Git, GitHub et VS Code    |   Aucune remise        |       0%         |
+| TP1                | Initiation à la programmation            |   28 septembre         |       5%         |  
+| TP2                | Structures de contrôle et de données     |   12 octobre           |       5%         |
+| TP3                | Fonctions et bibliothèques scientifiques |   2 novembre           |       5%         |
+| TP4                | Programmation orientée objet             |   30 novembre          |       5%         |
 
 Le choix de votre partenaire se fera via Moodle sous l'onglet `Travaux pratiques` > `Choix d'équipe de travaux pratiques`. Veuillez compléter le plus tôt possible ! 
 
@@ -31,8 +31,8 @@ Les projets seront réalisés **individuellement**.
 
 | Travaux pratiques  | Matière                                  |   Date de remise       |   Pondération    |
 | ------------------ | ---------------------------------------- |----------------------- | -----------------|
-| Projet 1           |                                          |                        |       10%        |
-| Projet 2           |                                          |                        |       10%        |
+| Projet 1           | Structure de contrôle et de données               |   19 octobre       |       10%        |
+| Projet 2           | Programmation orientée objet et bibliothèques scientifiques    |  7 décembre    |     10%    |     |
 
 
 ## Accès aux travaux 
@@ -44,10 +44,10 @@ Pour chaque TP et projet, un lien vous sera disponible sur Moodle pour accéder 
 Tous les travaux sont à remettre le **dimanche soir à minuit**, aux dates présentées dans les tableaux ci-dessus. 
 
 > [!Note]
-> Le TP1, le TP2 et le projet 1 seront à remettre directement dans une boîte de dépôt sur Moodle. Plus de détails sur la remise Moodle vous serons fournis lorsque nous débuterons le TP1.
+> Le TP1, le TP2 et le projet 1 seront **à remettre directement dans une boîte de dépôt sur Moodle**. Plus de détails sur la remise Moodle vous serons fournis lorsque nous débuterons le TP1.
 
 > [!Note]
-> Le TP3, TP4 et le projet 2 seront à remettre sur GitHub. Plus de détails vous seront fournis sur la remise GitHub lorsque nous serons débuterons le TP3. 
+> Le TP3, TP4 et le projet 2 seront **à remettre sur GitHub**. Plus de détails vous seront fournis sur la remise GitHub lorsque nous serons débuterons le TP3. 
 
 ## Déroulement des séances
 
