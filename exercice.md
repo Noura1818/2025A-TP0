@@ -13,7 +13,7 @@ Comme premier exercice, vous allez créer un `clone` du répertoire du TP0 sur v
 ☑️ **Étape 1.1 :** Sur votre ordinateur, créer un dossier pour y ajouter le TP0. 
 
 > [!Tip]
-> Vous pouvez, par exemple, créer un dossier nommé "INF1007" dans lequel vous pourrez y placer tous les TP et les projets du cours.
+> Dans le dossier `INF1007` créé précedemment vous pourrez y placer tous les TP et les projets du cours.
    
 ☑️ **Étape 1.2 :** Ouvrir VS Code
    
