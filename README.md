@@ -11,17 +11,48 @@ Ce premier TP, que nous avons intitulé le TP0, ne requiert aucun travail à rem
 
 Comme première partie du TP0, vous devez installer les outils suivants sur votre ordinateur. Ces outils seront nécessaires pour réaliser les TP et les projets.
 
-### ☑️ Installation de Python
+### ☑️ Installation de Python et d'Anaconda
 
-Python est le langage de programmation que nous utiliserons tout au long de la session. Vous pouvez l'installer à partir du [site web officiel de Python](https://www.python.org/downloads/). 
+Python est le langage de programmation que nous utiliserons tout au long de la session. Pour faciliter son utilisation, nous utiliserons également un environnement virtuel nommé `conda`.
+
+1. Commencez par installer [Anaconda](https://www.anaconda.com/download/success).
+2. Une fois installé, ouvrez l'application et cliquez sur l'onglet environnement.
+3. Créez un environnement `inf1007` en utilisant la version de python `3.11`
+
+> Note: L'utilisation d'environnements est courante en programmation. Ces derniers permettent d'avoir un meilleur contrôle sur la façon dont Python est exécuté, notamment en isolant les dépendances, les versions de bibliothèques (ou modules) et les configurations afin d'assurer une bonne exécution du code.
 
 ### ☑️ Installation de VS Code
 
-Visual Studio Code est un environnement de développement intégré (IDE), c'est-à-dire un logiciel qui vous permettra d'écrire, organiser et exécuter votre code. Il en existe plusieurs autres, mais nous recommandons d'utiliser celui-ci pour le cours. Vous pouvez [installer VS Code ici](https://code.visualstudio.com/). 
+Visual Studio Code est un environnement de développement intégré (IDE), c'est-à-dire un logiciel qui vous permettra d'écrire, organiser et exécuter votre code. Il en existe plusieurs autres, mais nous recommandons d'utiliser celui-ci pour le cours. 
+
+1. Commencez par installer [VS Code](https://code.visualstudio.com/).
+2. Ensuite, créez un dossier `INF1007` dans vos documents.
+3. Ouvrez VS Code puis ouvrez votre dossier `INF1007` dans VS Code
+4. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
+5. Copiez le code suivant dans votre fichier `test.py`
+
+```python
+print('Hello world !')
+```
+6. Activez votre environnement python `inf1007` créé précedemment:
+    1. Appuyez simultanément sur:
+    > shift == maj
+    - windows: `ctrl + shift + p` 
+    - mac: `command + shift + p`
+    2. Sélectionnez `Python: Select Interpreter`
+    3. Cliquez sur l'environnement `inf1007` créé précedemment.
+
+    > Note: Il est aussi possible de choisir votre environnement en cliquant en bas à droite de votre écran (à coté de la cloche) quand vous avez ouvert un fichier python.
+
+7. Exécutez le script `test.py` en cliquant en haut à droite sur la flèche.
+> Vous devriez voir apparaitre `Hello world !` dans la console en bas de votre fenètre !
+
+> [!Tip]
+> Note: N'oubliez pas de vérifier votre environnement avant d'executer du code ! Savoir utiliser le bon environnement est une notion importante qui vous assurera de ne pas perdre des points lors des TPs. 
 
 ### ☑️ Installation de Git
 
-`Git` est un logiciel de gestion de versions très pratique qui vous permet de sauvegarder différentes versions d'un projet à mesure que vous le modifiez. 
+`Git` est un logiciel de versionnement très pratique qui vous permet de sauvegarder différentes versions d'un projet à mesure que vous le modifiez. 
 
 - `Git` nous permet, par exemple, de récupérer une version antérieure d'un code. Cela enlève le risque de perdre votre travail, étant donné qu'il est possible de récupérer n'importe quelle version de votre travail que vous aurez répertorié avec `Git`. 
 
