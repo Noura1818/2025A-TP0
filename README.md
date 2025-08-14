@@ -36,12 +36,12 @@ print('Hello world !')
 ```
 6. Activez votre environnement python `inf1007` créé précedemment:
     1. Appuyez simultanément sur:
-    > shift == maj
-    - windows: `ctrl + shift + p` 
-    - mac: `command + shift + p`
+        - windows: `ctrl + shift + p` 
+        - mac: `command + shift + p`
     2. Sélectionnez `Python: Select Interpreter`
     3. Cliquez sur l'environnement `inf1007` créé précedemment.
 
+    > [!Tip]
     > Note: Il est aussi possible de choisir votre environnement en cliquant en bas à droite de votre écran (à coté de la cloche) quand vous avez ouvert un fichier python.
 
 7. Exécutez le script `test.py` en cliquant en haut à droite sur la flèche.
