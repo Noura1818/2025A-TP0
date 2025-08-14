@@ -46,7 +46,7 @@ print('Hello world !')
 7. Exécutez le script `test.py` en cliquant en haut à droite sur la flèche.
 > Vous devriez voir apparaitre `Hello world !` dans la console en bas de votre fenètre !
 
-> [!Tip]
+> [!IMPORTANT]
 > Note: N'oubliez pas de vérifier votre environnement avant d'executer du code ! Savoir utiliser le bon environnement est une notion importante qui vous assurera de ne pas perdre des points lors des TPs. 
 
 ### ☑️ Installation de Git
