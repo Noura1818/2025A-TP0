@@ -143,13 +143,19 @@ git commit -m "entrer ici un message descriptif"
 <br/>
 <br/>
 
-☑️ **Étape 3.4 :** Nous sommes rendus à la dernière étape du TP0 : le `git push` ! Cette commande permet de publier le `commit` que nous venons de faire dans le répertoire sur GitHub. Avant de faire le `git push`, nos changements seront répertoriés par `Git` localement sur notre ordinateur, mais ils ne seront pas disponibles sur GitHub. 
+☑️ **Étape 3.4 :** Nous sommes rendus à la dernière étape du TP0 : la commande `git push` ! 🎉
+Cette commande permet de publier le commit que vous venez de faire dans le répertoire local vers GitHub.
+
+Autrement dit, tant que vous ne faites pas de `git push`, vos changements sont enregistrés uniquement localement sur votre ordinateur, mais ne sont pas visibles sur GitHub.
 
 ```
 git push
 ```
+> [!Important]
+> Pour le TP0, vous n'avez pas les permissions nécessaires pour utiliser la commande `git push`. En effet, cela modifierait le répertoire GitHub commun à toute la classe, ce que nous voulons éviter.
+> À partir du TP3, TP4 et du Projet 2, vous aurez votre propre répertoire individuel via GitHub Classroom. Vous pourrez alors utiliser `git push` pour envoyer vos commits sur votre propre répertoire GitHub.
 
-Si le git push a fonctionné, vous pourrez voir votre `commit` sur GitHub : 
+Pour votre information, lorsqu'on fait git push, le commit devient visible sur GitHub, comme dans l'exemple ci-dessous :
 
 <br/>
 <img width="3822" height="1480" alt="fig13" src="https://github.com/user-attachments/assets/a06823c3-9f9a-413f-a9ed-46fa16f00cb9" />
