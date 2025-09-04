@@ -26,10 +26,13 @@ Python est le langage de programmation que nous utiliserons tout au long de la s
 Visual Studio Code est un environnement de développement intégré (IDE), c'est-à-dire un logiciel qui vous permettra d'écrire, organiser et exécuter votre code. Il en existe plusieurs autres, mais nous recommandons d'utiliser celui-ci pour le cours. 
 
 1. Commencez par installer [VS Code](https://code.visualstudio.com/).
-2. Ensuite, créez un dossier `INF1007` dans vos documents.
-3. Ouvrez VS Code puis ouvrez votre dossier `INF1007` dans VS Code
-4. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
-5. Copiez le code suivant dans votre fichier `test.py`
+3. Ensuite, créez un dossier `INF1007` à quelque part dans vos documents sur votre ordinateur.
+4. Ouvrez VS Code puis ouvrez votre dossier `INF1007` dans VS Code
+5. Téléchargez l'extension Python de VS Code à partir du menu "extensions" :
+<img width="231" height="305" alt="Image" src="https://github.com/user-attachments/assets/dc83e4ee-eafc-4335-a0c6-868d421a208a" />
+
+7. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
+8. Copiez le code suivant dans votre fichier `test.py`
 
 ```python
 print('Hello world !')
