@@ -10,10 +10,10 @@ Pour utiliser un répertoire situé sur GitHub, il est possible de faire une cop
 
 Comme premier exercice, vous allez créer un `clone` du répertoire du TP0 sur votre ordinateur. Les étapes à suivre sont les suivantes : 
 
-☑️ **Étape 1.1 :** Sur votre ordinateur, créer un dossier pour y ajouter le TP0. 
+☑️ **Étape 1.1 :** Si ce n'est pas déjà fait, créer un dossier `INF1007` sur votre ordinateur pour y ajouter le TP0. 
 
 > [!Tip]
-> Dans le dossier `INF1007` créé précedemment vous pourrez y placer tous les TP et les projets du cours.
+> Dans votre dossier `INF1007`, vous pourrez y placer tous les TP et les projets du cours.
    
 ☑️ **Étape 1.2 :** Ouvrir VS Code
    
@@ -23,7 +23,7 @@ Comme premier exercice, vous allez créer un `clone` du répertoire du TP0 sur v
 <br/>
 <br/>
 
-☑️ **Étape 1.4 :** En utilisant la commande `cd` ("change directory"), changer le chemin dans votre terminal pour le chemin vers le dossier que vous venez de créer (par exemple, votre dossier "INF1007").
+☑️ **Étape 1.4 :** Assurez-vous que votre terminal se retrouve dans le dossier `INF1007`. Si ce n'est pas le cas, utilisez la commande `cd` ("change directory") pour changer le chemin dans votre terminal, comme dans la capture d'écran ci-dessous.
 
 ```
 cd chemin/vers/votre/dossier/INF1007
@@ -95,7 +95,12 @@ Maintenant que vous avez effectué des modifications au fichier `TP0.py`, il est
 > Avant de poursuivre, assurez-vous d'avoir sauvegardé votre fichier `TP0.py` avec vos changements (par exemple, avec `File` > `Save`, ou bien `CTRL+S`). 
 <br/>
 
-☑️ **Étape 3.1 :** Nous allons d'abord utiliser la commande `git status` pour s'assurer que git reconnaît bien qu'il y a eu des changements au répertoire depuis le `clone`. Pour ce faire, entrez la commande suivante dans votre terminal de VS Code :
+☑️ **Étape 3.1 :** Nous allons d'abord utiliser la commande `git status` pour s'assurer que git reconnaît bien qu'il y a eu des changements au répertoire depuis le `clone`. Avant d'exécuter la commande, assurez-vous que le chemin dans votre terminal se retrouve dans le fichier `2025A-TP0`. Par exemple, si vous êtes dans le dossier `INF1007` et que votre dossier `2025A-TP0` est à l'intérieur de `INF1007`, vous pouvez simplement faire:
+```
+cd `2025A-TP0`
+```
+
+Une fois dans le bon chemin, entrez la commande `git status` dans votre terminal de VS Code :
 ```
 git status
 ```
