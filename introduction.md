@@ -29,7 +29,7 @@ Le choix de votre partenaire se fera via Moodle sous l'onglet `Travaux pratiques
 
 Les projets seront réalisés **individuellement**. 
 
-| Travaux pratiques  | Matière                                  |   Date de remise       |   Pondération    |
+| Projets  | Matière                                  |   Date de remise       |   Pondération    |
 | ------------------ | ---------------------------------------- |----------------------- | -----------------|
 | Projet 1           | Structure de contrôle et de données               |   12 octobre       |       10%        |
 | Projet 2           | Programmation orientée objet et bibliothèques scientifiques    |  30 novembre    |     10%    |     |
