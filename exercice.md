@@ -97,7 +97,7 @@ Maintenant que vous avez effectué des modifications au fichier `TP0.py`, il est
 
 ☑️ **Étape 3.1 :** Nous allons d'abord utiliser la commande `git status` pour s'assurer que git reconnaît bien qu'il y a eu des changements au répertoire depuis le `clone`. Avant d'exécuter la commande, assurez-vous que le chemin dans votre terminal se retrouve dans le fichier `2025A-TP0`. Par exemple, si vous êtes dans le dossier `INF1007` et que votre dossier `2025A-TP0` est à l'intérieur de `INF1007`, vous pouvez simplement faire:
 ```
-cd `2025A-TP0`
+cd 2025A-TP0
 ```
 
 Une fois dans le bon chemin, entrez la commande `git status` dans votre terminal de VS Code :
