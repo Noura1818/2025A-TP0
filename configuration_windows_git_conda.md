@@ -14,7 +14,7 @@ Pour régler ce problème, vous pouvez suivre la procédure suivante pour ajoute
 <img height="500" alt="Image" src="https://github.com/user-attachments/assets/77994a45-af30-4485-b914-bd45894bc16a" />
 
 
-### ÉTAPE 3. Dans "System variables", trouvez la variable "Path"** et cliquez sur "Edit"
+### ÉTAPE 3. Dans "System variables", trouvez la variable "Path" et cliquez sur "Edit"
 
 <img height="500" alt="Image" src="https://github.com/user-attachments/assets/f4549f9c-94d1-453d-91e0-089d33a325dc" />
 
