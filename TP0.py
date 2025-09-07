@@ -1,5 +1,5 @@
 import math as m
-
+# test
 # transformation du input en int (entier)
 r = int(input('Entrer le rayon (en mm):'))
 #formule de l'aire d'un cercle (importer math en m pour mettre la valeur pi)
